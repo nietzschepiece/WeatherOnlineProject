@@ -1,9 +1,20 @@
 # WeatherOnlineProject
 
-Check out your weather online.
-
 Showing real-time weather forecast using OpenWeatherMap API.
 
-Technologies used: Java,  Spring Boot, JSP, JSWTL, JSON, Maven
+### Run application
 
-Configure Maven run : -spring-boot: start
+Maven configuration
+
+Run command line:
+
+```
+spring-boot:run
+```
+
+## Technologies / Frameworks: 
+
+Java,  Spring Boot, JSP, JSWTL, JSON, Maven
+
+
+
