@@ -4,9 +4,7 @@ Showing real-time weather forecast using OpenWeatherMap API.
 
 ### Run application
 
-Maven configuration
-
-Run command line:
+Maven configuration, run command line:
 
 ```
 spring-boot:run
